@@ -1,4 +1,4 @@
-FROM eclipse-temurin:17-ubi9-minimal
+FROM eclipse-temurin:21-ubi9-minimal
 
 # Copy the project files into the container
 COPY . /app
